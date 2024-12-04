@@ -1,0 +1,15 @@
+C:\Users\jbfaw\Documents\GitHub\Advent-of-code-2024\Day 4\challenge2\bin\Debug\net8.0\challenge2.exe
+C:\Users\jbfaw\Documents\GitHub\Advent-of-code-2024\Day 4\challenge2\bin\Debug\net8.0\challenge2.deps.json
+C:\Users\jbfaw\Documents\GitHub\Advent-of-code-2024\Day 4\challenge2\bin\Debug\net8.0\challenge2.runtimeconfig.json
+C:\Users\jbfaw\Documents\GitHub\Advent-of-code-2024\Day 4\challenge2\bin\Debug\net8.0\challenge2.dll
+C:\Users\jbfaw\Documents\GitHub\Advent-of-code-2024\Day 4\challenge2\bin\Debug\net8.0\challenge2.pdb
+C:\Users\jbfaw\Documents\GitHub\Advent-of-code-2024\Day 4\challenge2\obj\Debug\net8.0\challenge2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jbfaw\Documents\GitHub\Advent-of-code-2024\Day 4\challenge2\obj\Debug\net8.0\challenge2.AssemblyInfoInputs.cache
+C:\Users\jbfaw\Documents\GitHub\Advent-of-code-2024\Day 4\challenge2\obj\Debug\net8.0\challenge2.AssemblyInfo.cs
+C:\Users\jbfaw\Documents\GitHub\Advent-of-code-2024\Day 4\challenge2\obj\Debug\net8.0\challenge2.csproj.CoreCompileInputs.cache
+C:\Users\jbfaw\Documents\GitHub\Advent-of-code-2024\Day 4\challenge2\obj\Debug\net8.0\challenge2.sourcelink.json
+C:\Users\jbfaw\Documents\GitHub\Advent-of-code-2024\Day 4\challenge2\obj\Debug\net8.0\challenge2.dll
+C:\Users\jbfaw\Documents\GitHub\Advent-of-code-2024\Day 4\challenge2\obj\Debug\net8.0\refint\challenge2.dll
+C:\Users\jbfaw\Documents\GitHub\Advent-of-code-2024\Day 4\challenge2\obj\Debug\net8.0\challenge2.pdb
+C:\Users\jbfaw\Documents\GitHub\Advent-of-code-2024\Day 4\challenge2\obj\Debug\net8.0\challenge2.genruntimeconfig.cache
+C:\Users\jbfaw\Documents\GitHub\Advent-of-code-2024\Day 4\challenge2\obj\Debug\net8.0\ref\challenge2.dll
